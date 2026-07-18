@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-photo.png" width="150" alt="Portrait of Md. Mahamud Mredha" />
+  <img src="profile-photo.png" width="150" alt="Portrait of Md. Mahamud Mredha" />
 
   <h1>Md. Mahamud Mredha</h1>
   <h3>Business Intelligence Analyst | Analytics Engineer</h3>
